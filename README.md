@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and architecture.
 - 🌱 I’m currently learning everything that I can.
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **apjorquera@gmail.com**
 
 <div>
   <a href="https://github.com/vanalex">
