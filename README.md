@@ -14,6 +14,12 @@
   </a>
 </div>
 
+## Github Analytics
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=vanalex&no-bg=true&no-frame=true&theme=onedark&column=7" />
+<!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
+</p>
+
 
 <!---
 vanalex/vanalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
