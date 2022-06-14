@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in software development and architecture.
 - 🌱 I’m currently learning everything that I can.
@@ -20,6 +24,23 @@
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
 
+***Languages & Tools I Know...***
+<p align="left">
+  
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<hr>
+<p align="center">  
 
 <!---
 vanalex/vanalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
